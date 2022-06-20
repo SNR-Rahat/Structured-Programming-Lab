@@ -1,3 +1,5 @@
+//Enter six digit number and sum the number and reverse them
+
 #include<stdio.h>
 int main()
 {
